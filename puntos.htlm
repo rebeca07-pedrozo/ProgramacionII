@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nuestros productos</title>
+</head>
+<body>
+    <h1>Productos disponibles</h1>
+
+    <table border="1">
+        <tr>
+            <th>Producto</th>
+            <th>Precio</th>
+        </tr>
+        <tr>
+            <td>Producto 1</td>
+            <td>$10.00</td>
+        </tr>
+        <tr>
+            <td>Producto 2</td>
+            <td>$20.00</td>
+        </tr>
+        <tr>
+            <td>Producto 3</td>
+            <td>$30.00</td>
+        </tr>
+        <tr>
+            <td>Producto 4</td>
+            <td>$40.00</td>
+        </tr>
+        <tr>
+            <td>Producto 5</td>
+            <td>$50.00</td>
+        </tr>
+        <tr>
+            <td>Producto 6</td>
+            <td>$60.00</td>
+        </tr>
+        <tr>
+            <td>Producto 7</td>
+            <td>$70.00</td>
+        </tr>
+        <tr>
+            <td>Producto 8</td>
+            <td>$80.00</td>
+        </tr>
+        <tr>
+            <td>Producto 9</td>
+            <td>$90.00</td>
+        </tr>
+        <tr>
+            <td>Producto 10</td>
+            <td>$100.00</td>
+        </tr>
+    </table>
+
+    <p>Para más detalles, visita nuestra
+        <a href="https://www.blizzard.com/es-es/">Página de productos</a>.
+    </p>
+</body>
+</html>
